@@ -4,4 +4,4 @@ a small project to for class
 
 I like :tea:, :coffee:, and chocolate.
 
-Rainy days are gloomy.
+Rainy days are gloomy.  Sunny days are better, usually.
